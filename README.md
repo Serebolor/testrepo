@@ -1,2 +1,2 @@
 # testrepo
-curserea kurs
+*curserea kurs*
