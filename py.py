@@ -1,1 +1,1 @@
-print('what the fuck')
+print('what the fuck?')
